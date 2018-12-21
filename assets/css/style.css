@@ -1,3 +1,13 @@
 body{
     background-image: url(../images/ocean.jpg);
 }
+
+.container{
+    width:979px;
+    height:590px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-295px 0 0 -490px;
+    background: lightblue;
+    }
